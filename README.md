@@ -55,12 +55,24 @@ A growing collection of Python exercises and programming practice documenting my
 - Practice writing clean, maintainable, and testable code.
 - Contribute to meaningful software projects.
 
+
 ## 📫 Connect With Me
 
-- **GitHub:** [@buildwithrutuja](https://github.com/buildwithrutuja)
+<p align="left">
+  <a href="https://github.com/buildwithrutuja">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rutuja-gurav-894811339/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rutujagurav1812@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <i>Learning by building. Improving through practice.</i>
 </p>
+
